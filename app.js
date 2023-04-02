@@ -1,5 +1,5 @@
 const textDisplay = document.getElementById('text')
-const phrases = ['Hello, this is a typewriter effect simulator.', 'I love to codecoding.', 'I love to teach coding.']
+const phrases = ['Hello, this is a typewriter effect simulator.', 'I love coding.', 'I love to teach coding.']
 let i = 0
 let j = 0 
 let currentPhrase = []
