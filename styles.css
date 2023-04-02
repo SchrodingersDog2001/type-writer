@@ -1,0 +1,13 @@
+body {
+  background-color: darkslategrey;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+#text {
+  border-right: solid white 4px;
+  height: 35px;
+}
